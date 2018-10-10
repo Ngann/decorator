@@ -6,3 +6,15 @@
 img {
   width: 350px;
 }
+
+.pink {
+  background-color: pink;
+}
+
+.blue {
+  background-color: lightblue;
+}
+
+.yellow {
+  background-color: lightyellow;
+}
